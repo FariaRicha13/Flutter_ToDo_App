@@ -19,8 +19,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## Screenshot
+
 <center>
-<img width="460" " alt="image" src="https://github.com/FariaRicha13/Flutter_ToDo_App/assets/81919644/3a73f924-2197-4d7f-856b-d3fb23735c92">
+![image](https://github.com/FariaRicha13/Flutter_ToDo_App/assets/81919644/bc3035b0-1071-45b3-99a1-fecb2248b35e)
+
 </center>
 
 
