@@ -20,7 +20,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Screenshot
 <center>
-  ![image](https://github.com/FariaRicha13/Flutter_ToDo_App/assets/81919644/1fc50817-9ea2-4b8b-a6b6-1ff59acc3c53)
+<img src="https://github.com/FariaRicha13/Flutter_ToDo_App/assets/81919644/1fc50817-9ea2-4b8b-a6b6-1ff59acc3c53" width ="460">
 </center>
 
 
